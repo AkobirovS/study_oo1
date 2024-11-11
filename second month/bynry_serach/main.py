@@ -26,5 +26,5 @@
 #         print(f"Число {number} является простым")
 #     else:
 #         print(f"Число {number} не является простым")
-number = int(input("add a numer:: "))
-print(int(number**0.5))
+# number = int(input("add a numer:: "))
+# print(int(number**0.5))1
